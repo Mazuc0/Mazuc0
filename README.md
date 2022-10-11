@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://i1.wp.com/media1.tenor.com/images/05729f2e534ba37254f95b39e9647d29/tenor.gif?resize=497%2C280&ssl=1" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  Olá!! Meu nome é Mateus de Lima, sou um Estudante <strong>Front-End</strong>.<br>
