@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  Olá!! Meu nome é Mateus de Lima, sou um Estudante <strong>Front-End</strong>.<br>
