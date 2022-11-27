@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá!! Meu nome é Mateus de Lima, sou um Estudante <strong>Front-End</strong>.<br>
+ Olá!! Meu nome é Mateus, sou um Estudante <strong>Front-End</strong>.<br>
   Comecei recentemente os meus estudos para me tornar um desenvolvedor Front-End.
 </p>
 
